@@ -15,7 +15,7 @@
 <style lang="sass">
 @use "./sass/mixins"
 @use "./sass/vars"
-@use "./sass/themes"
+//@use "./sass/themes"
 
 
 </style>
