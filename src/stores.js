@@ -1,1 +1,1 @@
-import { writable } from "Svelte/store";
+import { writable } from "svelte/store";
